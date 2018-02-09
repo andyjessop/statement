@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "tslint-config-standard",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "quotemark": [true, "single", "avoid-escape", "avoid-template"]
+  }
+}
